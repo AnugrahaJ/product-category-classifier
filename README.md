@@ -3,8 +3,6 @@ An OCR + ML pipeline that extracts text from FMCG product packaging and predicts
 
 # Product Category Classifier from Package Images
 
-> **Status: Work in Progress** — This project is under active development. Current progress covers data preparation and a baseline text classification model. OCR and image-based prediction are in progress.
-
 ## Overview
 
 This project mirrors a real-world enterprise workflow (validated during my time at NielsenIQ): given a product's packaging, extract text from the image using OCR, then predict the product's category using a machine learning classifier — with confidence-ranked suggestions rather than a single rigid guess.
