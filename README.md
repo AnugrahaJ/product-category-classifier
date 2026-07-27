@@ -1,6 +1,6 @@
-# product-category-classifier
+# Product-Category-Classifier
 An OCR + ML pipeline that extracts text from FMCG product packaging and predicts product categories — grounded in Open Food Facts data and real retail workflows.
-cat > README.md << 'EOF'
+
 # Product Category Classifier from Package Images
 
 > **Status: Work in Progress** — This project is under active development. Current progress covers data preparation and a baseline text classification model. OCR and image-based prediction are in progress.
